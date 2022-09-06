@@ -99,7 +99,7 @@ function makeRenderer(
         }
       } else {
         layout.xaxis = {
-          title: transpose ? fullAggName : null,
+          //title: transpose ? fullAggName : null,
           automargin: true,
         };
         layout.yaxis = {
